@@ -439,7 +439,7 @@ section.meeting-time button{
 .message{
     width: 75%;
     height: 400px;
-    background: rgba(255, 0, 0, 0.05); border-radius;
+    background: rgba(255, 0, 0, 0.05);
     align-items: center;
     margin-top: 75px;
     margin-left: 13%;
